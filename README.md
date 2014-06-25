@@ -4,7 +4,7 @@ Allows you to seamlessly embed JustinTV / Twitch videos with only a link.  Uses 
 
 ## Usage
 
-Simply paste in a JustinTv / Twitch URL into the WordPress page/post editor.  The plugin will automatically embed the URL into the published content.
+Simply paste in a JustinTV / Twitch URL into the WordPress page/post editor.  The plugin will automatically embed the URL into the published content.
 
 ### URL Structures
 
