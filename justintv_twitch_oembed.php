@@ -1,6 +1,6 @@
 <?php
 /**
- * @package Justin_Twitch
+ * @package JustinTV_Twitch
  */
 /*
 Plugin Name: JustinTV / Twitch oEmbed
